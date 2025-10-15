@@ -1,6 +1,6 @@
 {
-  "name": "QCodeJr – Agent Order Links",
-  "short_name": "Agent Orders",
+  "name": "Qalybrate – CRM",
+  "short_name": "Qalybrate CRM",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
